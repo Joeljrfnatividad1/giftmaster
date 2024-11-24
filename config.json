@@ -1,13 +1,13 @@
 {
-    "status": "SUBSCRIBE TO SCIENCE GEAR",
+    "status": "Made by .gg/mcpack",
     "prefix": "gr!",
     "genChannel": "1293163122466754676",
     "pgenChannel": "1293163122466754677",  
-    "genCooldown": "120000",
-    "genCooldownsec": "600",
+    "genCooldown": "10",
+    "genCooldownsec": "10",
     "pgenrole": "1293163121610850317",
     "freegenrole": "1293163121590014069",
-    "stocker": "role_id",
+    "stocker": "1293163121640214583",
     "gifurl": "https://cdn.discordapp.com/attachments/1112975745212489808/1116032447197491361/standard.gif",
     "color": {
         "green": "0x57F287",
