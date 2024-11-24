@@ -2,7 +2,7 @@
     "status": "SUBSCRIBE TO SCIENCE GEAR",
     "prefix": "gr!",
     "genChannel": "1293163122466754676",
-    "pgenChannel": "0000000000000000000",  
+    "pgenChannel": "1293163122466754677",  
     "genCooldown": "120000",
     "genCooldownsec": "600",
     "pgenrole": "role_id",
